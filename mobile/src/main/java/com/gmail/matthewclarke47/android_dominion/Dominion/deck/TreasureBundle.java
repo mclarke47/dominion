@@ -1,7 +1,6 @@
 package com.gmail.matthewclarke47.android_dominion.Dominion.deck;
 
 
-import com.gmail.matthewclarke47.android_dominion.Dominion.Card;
 import com.gmail.matthewclarke47.android_dominion.Dominion.treasure.Copper;
 import com.gmail.matthewclarke47.android_dominion.Dominion.treasure.Gold;
 import com.gmail.matthewclarke47.android_dominion.Dominion.treasure.Silver;

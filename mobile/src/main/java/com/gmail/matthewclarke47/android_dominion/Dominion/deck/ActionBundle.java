@@ -2,7 +2,8 @@ package com.gmail.matthewclarke47.android_dominion.Dominion.deck;
 
 import com.gmail.matthewclarke47.android_dominion.Dominion.base.ActionCard;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ActionBundle {
     private List<ActionCard> types = new ArrayList<>();

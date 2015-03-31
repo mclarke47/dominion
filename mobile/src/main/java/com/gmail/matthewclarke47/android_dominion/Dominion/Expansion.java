@@ -1,10 +1,33 @@
 package com.gmail.matthewclarke47.android_dominion.Dominion;
 
-import com.gmail.matthewclarke47.android_dominion.Dominion.base.*;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.ActionCard;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Adventurer;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Bureaucrat;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Cellar;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Chancellor;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Chapel;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.CouncilRoom;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Feast;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Festival;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Gardens;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Laboratory;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Library;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Market;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Militia;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Mine;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Moat;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Moneylender;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Remodel;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Smithy;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Spy;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Theif;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.ThroneRoom;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Village;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Witch;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Woodcutter;
+import com.gmail.matthewclarke47.android_dominion.Dominion.base.Workshop;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public enum Expansion {
